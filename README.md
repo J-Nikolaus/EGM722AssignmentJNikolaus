@@ -1,2 +1,2 @@
-# EGM722AssignmentJNIkolaus
+# EGM722AssignmentJNikolaus
  
